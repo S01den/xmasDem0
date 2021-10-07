@@ -1,0 +1,31 @@
+# Various links
+
+- http://furrtek.free.fr/?a=gbasm
+- http://gameboy.mongenel.com/asmschool.html
+- http://marc.rawer.de/Gameboy/
+- http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf
+- http://pepijndevos.nl/sha2017/workshop.pdf
+- http://voidptr.io/blog/2017/01/21/GameBoy.html
+- http://www.devrs.com/gb/asmcode.php
+- http://www.devrs.com/gb/files/software.html
+- https://archives.glitchcity.info/wiki/GB_Programming.html
+- https://blog.flozz.fr/2018/10/01/developpement-gameboy-1-hello-world/
+- https://daid.github.io/rgbds-live/
+- https://eldred.fr/gb-asm-tutorial/part1/assembly.html
+- https://gbdev.io/to_c_or_not_to_c.html
+- https://gist.github.com/oktomus/22f014b5e6740a9d71dadc184987bfeb
+- https://github.com/ISSOtm/gb-asm-tutorial
+- https://github.com/Sarkimedes/Hello-World--sample-code-
+- https://github.com/ahrnbom/gingerbread
+- https://github.com/gbdev/awesome-gbdev
+- https://marketplace.visualstudio.com/items?itemName=donaldhays.rgbds-z80
+- https://medium.com/@ulrikdamm/writing-your-first-gameboy-game-4ea62c76db29
+- https://peterwynroberts.wordpress.com/2014/05/11/gameboy-programming-tutorial-hello-world/
+- https://retroscience.net/gameboy-assembly-programming.html
+- https://www.assemblytutorial.com/z80/
+- https://www.chibiakumas.com/z80/Gameboy.php
+- https://www.gbstudio.dev/
+- https://www.retroreversing.com/pokemonredblue
+- http://voidptr.io/blog/2017/01/21/GameBoy.html
+- https://github.com/bitnenfer/flappy-boy-asm
+
